@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+MessageId: 12
+DateOfSubmission: 11/18/2018 3:08:15 PM
+Sender Username: xaris
+Receiver Username: dimitris
+MessageData: Good afternoon
+
+
+MessageId: 13
+DateOfSubmission: 11/18/2018 3:09:16 PM
+Sender Username: xaris
+Receiver Username: dimitris
+MessageData: Good Afternoon
+
+
+MessageId: 14
+DateOfSubmission: 11/19/2018 2:01:04 PM
+Sender Username: admin
+Receiver Username: apostolos
+MessageData: kalimera
+
+
+MessageId: 14
+DateOfChange: 11/19/2018 2:02:08 PM
+Sender Username: admin
+Receiver Username: apostolos
+OldMessageData: kalimera
+NewMessageData: kalispera marie
+
+
+MessageId: 14
+DateOfChange: 11/19/2018 2:05:48 PM
+Sender Username: admin
+Receiver Username: apostolos
+OldMessageData: kalispera marie
+NewMessageData: hdvfi
+
+
